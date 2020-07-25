@@ -33,6 +33,6 @@ Usage:
 [My wardrobe "GarderOpa" from the front](pictures/GarderOpa_front.jpg)
 
 
-[My wardrobe "GarderOpa" from the front](pictures/GarderOpa_front.jpg)
+[My wardrobe "GarderOpa" from the side](pictures/GarderOpa_side.jpg)
 
 [Video to show how my wardrobe "GarderOpa" functions](pictures/GarderOpa_video.mp4)
