@@ -8,9 +8,9 @@ If you have some old cables with plugs too, feel free to make your own wardrobe 
 The main challenge of this project was to get all the functions needed to drive 13 LEDs and to play the whole Happy Birthday melody into the small flash of ATtiny24.
 You would say why don't you use a ATtiny44, ATtiny 84 or even a ATmega controller?
 
-  • Firstly I just had a view ATtiny24 laying around.
+  • Firstly I just had a ATtiny24 laying around.
   
-  • Secondly a ATtiny24 you can get for around 1€ / 1$ or less (smd versions) while bigger controllers are a little bit more expensive 
+  • Secondly a ATtiny24 you can get for around 1€ / 1$ or less (smd versions) while bigger controllers are a little bit more expensive.
   
   • Thirdly my prototyping pcb only had around 5 x 7,5 cm (2 x 3 inches) so space was rare, so ATmega controllers were to big.
   
@@ -18,8 +18,11 @@ You would say why don't you use a ATtiny44, ATtiny 84 or even a ATmega controlle
 
 In this project I used the ATtiny core of SpenceKonde and got inspired by the “happybirthday" sketch of Robson Couto.
 
-For more information about the ATtiny core see SpenceKode's repository:  https://github.com/SpenceKonde/ATTinyCore
-Further songs can be downloaded from robsoncouto's repository:  https://github.com/robsoncouto/arduino-songs
+For more information about the ATtiny core see SpenceKode's repository:  
+https://github.com/SpenceKonde/ATTinyCore
+
+Further songs can be downloaded from robsoncouto's repository:  
+https://github.com/robsoncouto/arduino-songs
 
 
 Usage:
@@ -32,7 +35,6 @@ Usage:
   * Feel free to modify the soft- / hardware to fit your imaginations. If something doesn't function as expected, write a simple test routine or undo your changes until the point where it still functioned.
 
 [My wardrobe "GarderOpa" from the front](pictures/GarderOpa_front.jpg)
-
 
 [My wardrobe "GarderOpa" from the side](pictures/GarderOpa_side.jpg)
 
