@@ -34,8 +34,8 @@ Usage:
   * Upload the sketch "GarderOpa" to see if the buzzer plays "Happy Birthday" while some LEDs light up. Compare your result with mine like shown in the short video.
   * Feel free to modify the soft- / hardware to fit your imaginations. If something doesn't function as expected, write a simple test routine or undo your changes until the point where it still functioned.
 
-![front](pictures/GarderOpa_front.jpg?raw=true "My wardrobe "GarderOpa" from the front")
+[front](pictures/GarderOpa_front.jpg?raw=true "My wardrobe "GarderOpa" from the front")
 
-![side](pictures/GarderOpa_side.jpg?raw=true "My wardrobe "GarderOpa" from the side")
+[side](pictures/GarderOpa_side.jpg?raw=true "My wardrobe "GarderOpa" from the side")
 
-![Video to show how my wardrobe "GarderOpa" functions](pictures/GarderOpa_video.mp4)
+[Video to show how my wardrobe "GarderOpa" functions](pictures/GarderOpa_video.mp4)
